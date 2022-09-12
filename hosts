@@ -1,0 +1,13 @@
+[app]
+51.250.70.214
+178.154.207.205
+
+[database]
+178.154.201.121 
+
+[database:vars]
+pg_version = postgresql-14
+data_directory = /var/lib/postgresql/14/main
+
+[web]
+178.154.201.121 
